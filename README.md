@@ -1,2 +1,2 @@
 # LeetCode
-记得自己的LeetCode之旅
+记录自己的LeetCode之旅
